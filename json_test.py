@@ -16,7 +16,7 @@ print ("JSON 对象：", json_obj)
 
 json_dit=json.loads(json_obj)
 print("json str:",json_dit)
-
+# --------------------------------------
 # --------------------------------------
 def fun(a,b):
     #"返回多个值，结果以元组形式表示"
