@@ -33,8 +33,9 @@ for i in a:
 
 """)
 
-#git remote add origin https://github.com/ZTJ-ALLGO/test.git
+# //git remote add origin https://github.com/ZTJ-ALLGO/test.git
 print(ss)
+
 print(ss.encode("utf-8"))
 python_code = compile(ss, '', 'exec')
 exec(python_code)
